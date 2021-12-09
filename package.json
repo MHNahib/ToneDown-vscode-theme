@@ -1,0 +1,50 @@
+{
+    "name": "tonedown",
+    "displayName": "tonedown",
+    "description": "Tone Down is a vscode theme designed specifically for dark mode lovers.",
+    "version": "0.0.1",
+    "publisher": "MHNahib",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MHNahib/ToneDown-vscode-theme"
+    },
+    "keywords": [
+        "atom",
+        "dark",
+        "blue Whale",
+        "vscode",
+        "material",
+        "Midnight",
+        "Light",
+        "High Contrast",
+        "bold",
+        "solarize",
+        "black",
+        "night",
+        "indigo",
+        "purple",
+        "astro",
+        "Themes",
+        "Theme"
+    ],
+    "galleryBanner": {
+        "color": "#1f2b44",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tone Down",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tone Down-color-theme.json"
+            }
+        ]
+    }
+}
