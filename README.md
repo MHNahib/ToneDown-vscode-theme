@@ -22,7 +22,7 @@
 1. Search for codeSTACKr Theme
 1. Click Install
 1. Click Reload to reload your editor
-1. Select the Manage Cog (bottom left) > Color Theme ＞ codeStackr Theme
+1. Select the Manage Cog (bottom left) > Color Theme ＞ ToneDown Theme
 1. 🌟🌟🌟🌟🌟 Rate five-stars 😃
 
 ## 🚀 Authors
